@@ -4,7 +4,7 @@ A Frontend Developer Passionate about building Web Apps.
 
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shifachaus/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifachaus/) 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=shifachaus&theme=react&hide_border=true&include_all_commits=true&count_private=true)
