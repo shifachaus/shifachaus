@@ -1,4 +1,4 @@
-# Hello👋, I'm Shifa
+# Hello, I'm Shifa👋
 
 A Frontend Developer Passionate about building Web Apps.
 
